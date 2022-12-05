@@ -1,5 +1,5 @@
 # blogs_capstone
-This blogs website takes data from an API and renders it.
+The website takes data from an API and renders it.
 <br>
 User can send an email to us in 'contact' section. 
 
