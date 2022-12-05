@@ -8,3 +8,5 @@ Frameworks & Modules: Flask, Jinja, Stmplib and Requests
 Backend: Python 3
 <br>
 Frontend: HTML, CSS and JavaScript
+<br>
+In assciation with Angela Yu, Instructor, Udemy.
