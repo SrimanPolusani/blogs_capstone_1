@@ -1,7 +1,5 @@
 # blogs_capstone
-The website takes data from an API and renders it.
-<br>
-User can send an email to us in 'contact' section. 
+The website takes data from an API and renders it. User can send an email to us in 'contact' section. 
 <br><br>
 This blogs website is built using the following tools:
 Frameworks & Modules: Flask, Jinja, Stmplib and Requests
